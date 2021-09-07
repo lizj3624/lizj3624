@@ -2,8 +2,8 @@
 
 Hi, i'm backend software engineer, i work for a cloud compute company from China, i like cloud native. 
 
-<img align="left" alt="GIF" src="https://github.com/lizj3624/lizj3624/blob/main/pictures/code.gif" width="500" height="320"/>     
-<br>  
+<img align="right" alt="GIF" src="https://github.com/lizj3624/lizj3624/blob/main/pictures/code.gif" width="500" height="320"/>
+
 - languages and tools:  
 
 <code><img height="40" src="https://github.com/lizj3624/lizj3624/blob/main/pictures/c-programming.png"></code>
