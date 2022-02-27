@@ -14,6 +14,7 @@ Hi, i'm backend software engineer, i work for a cloud computing company from Chi
 * `Haproxy`
 * `LVS`
 * `DNS`
+![c](https://icongr.am/devicon/c-original.svg?size=128&color=currentColor) ![c++](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor) ![golang](https://icongr.am/devicon/go-original.svg?size=128&color=currentColor)
 
 ![Alt](https://repobeats.axiom.co/api/embed/65237df4d2921e1ad3c013680cf45f95a8653ca9.svg)
 
