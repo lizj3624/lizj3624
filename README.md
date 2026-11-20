@@ -3,6 +3,8 @@
 Hi, I'm backend software engineer, i work for a cloud computing company from China. 
 
 #### My Languages And Tools
+- AI Gateway
+- AI App
 - Nginx
 - OpenResty
 - Lua
